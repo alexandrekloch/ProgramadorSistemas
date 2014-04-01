@@ -1,0 +1,9 @@
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\bin\Debug\prjSinaleiro.exe.config
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\bin\Debug\prjSinaleiro.exe
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\bin\Debug\prjSinaleiro.pdb
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\obj\Debug\prjSinaleiro.csprojResolveAssemblyReference.cache
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\obj\Debug\prjSinaleiro.Form1.resources
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\obj\Debug\prjSinaleiro.Properties.Resources.resources
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\obj\Debug\prjSinaleiro.csproj.GenerateResource.Cache
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\obj\Debug\prjSinaleiro.exe
+c:\users\alexandre2466\documents\visual studio 2012\Projects\prjSinaleiro\prjSinaleiro\obj\Debug\prjSinaleiro.pdb
