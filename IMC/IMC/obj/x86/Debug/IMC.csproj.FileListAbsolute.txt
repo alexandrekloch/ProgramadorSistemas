@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\bin\Debug\IMC.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\bin\Debug\IMC.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\IMC\IMC\obj\x86\Debug\IMC.pdb

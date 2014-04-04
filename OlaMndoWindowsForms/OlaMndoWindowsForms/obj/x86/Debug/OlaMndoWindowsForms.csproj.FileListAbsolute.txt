@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\bin\Debug\OlaMndoWindowsForms.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\bin\Debug\OlaMndoWindowsForms.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\obj\x86\Debug\OlaMndoWindowsForms.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\obj\x86\Debug\OlaMndoWindowsForms.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\obj\x86\Debug\OlaMndoWindowsForms.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\obj\x86\Debug\OlaMndoWindowsForms.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMndoWindowsForms\OlaMndoWindowsForms\obj\x86\Debug\OlaMndoWindowsForms.Form1.resources

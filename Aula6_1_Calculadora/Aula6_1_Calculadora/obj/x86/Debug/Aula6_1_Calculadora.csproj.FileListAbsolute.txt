@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\bin\Debug\Aula6_1_Calculadora.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\bin\Debug\Aula6_1_Calculadora.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\obj\x86\Debug\Aula6_1_Calculadora.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\obj\x86\Debug\Aula6_1_Calculadora.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\obj\x86\Debug\Aula6_1_Calculadora.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\obj\x86\Debug\Aula6_1_Calculadora.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula6_1_Calculadora\Aula6_1_Calculadora\obj\x86\Debug\Aula6_1_Calculadora.pdb

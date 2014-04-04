@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\bin\Debug\Aula5_1_Imagem.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\bin\Debug\Aula5_1_Imagem.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\obj\x86\Debug\Aula5_1_Imagem.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\obj\x86\Debug\Aula5_1_Imagem.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\obj\x86\Debug\Aula5_1_Imagem.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\obj\x86\Debug\Aula5_1_Imagem.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\Aula5_1_Imagem\Aula5_1_Imagem\obj\x86\Debug\Aula5_1_Imagem.pdb

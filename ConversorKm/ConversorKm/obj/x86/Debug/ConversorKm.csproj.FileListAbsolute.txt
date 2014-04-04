@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\bin\Debug\ConversorKm.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\bin\Debug\ConversorKm.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\obj\x86\Debug\ConversorKm.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\obj\x86\Debug\ConversorKm.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\obj\x86\Debug\ConversorKm.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\obj\x86\Debug\ConversorKm.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorKm\ConversorKm\obj\x86\Debug\ConversorKm.pdb

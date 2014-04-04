@@ -1,0 +1,4 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMundo\OlaMundo\bin\Debug\OlaMundo.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMundo\OlaMundo\bin\Debug\OlaMundo.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMundo\OlaMundo\obj\x86\Debug\OlaMundo.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\OlaMundo\OlaMundo\obj\x86\Debug\OlaMundo.pdb

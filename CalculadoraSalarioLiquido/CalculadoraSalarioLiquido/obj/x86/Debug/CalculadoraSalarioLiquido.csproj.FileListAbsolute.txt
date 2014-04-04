@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\bin\Debug\CalculadoraSalarioLiquido.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\bin\Debug\CalculadoraSalarioLiquido.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\obj\x86\Debug\CalculadoraSalarioLiquido.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\obj\x86\Debug\CalculadoraSalarioLiquido.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\obj\x86\Debug\CalculadoraSalarioLiquido.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\obj\x86\Debug\CalculadoraSalarioLiquido.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\CalculadoraSalarioLiquido\CalculadoraSalarioLiquido\obj\x86\Debug\CalculadoraSalarioLiquido.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\bin\Debug\RelogioDigital.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\bin\Debug\RelogioDigital.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\obj\x86\Debug\RelogioDigital.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\obj\x86\Debug\RelogioDigital.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\obj\x86\Debug\RelogioDigital.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\obj\x86\Debug\RelogioDigital.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\RelogioDigital\RelogioDigital\obj\x86\Debug\RelogioDigital.pdb

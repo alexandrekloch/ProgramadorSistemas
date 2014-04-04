@@ -1,0 +1,17 @@
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.Form1.resources
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.exe
+c:\users\aluno\documents\visual studio 2010\Projects\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.pdb
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.exe
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.Form1.resources
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.Properties.Resources.resources
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.exe
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\bin\Debug\CalculadoraCompleta.pdb
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.pdb
+C:\Users\aluno\Desktop\CalculadoraCompleta\CalculadoraCompleta\obj\x86\Debug\CalculadoraCompleta.csprojResolveAssemblyReference.cache
