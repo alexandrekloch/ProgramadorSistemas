@@ -1,0 +1,8 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\obj\x86\Debug\dataPorExtenso.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\obj\x86\Debug\dataPorExteso.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\obj\x86\Debug\dataPorExteso.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\obj\x86\Debug\dataPorExtenso.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\bin\Debug\dataPorExteso.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\bin\Debug\dataPorExteso.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\obj\x86\Debug\dataPorExteso.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dataPorExteso\dataPorExteso\obj\x86\Debug\dataPorExteso.pdb

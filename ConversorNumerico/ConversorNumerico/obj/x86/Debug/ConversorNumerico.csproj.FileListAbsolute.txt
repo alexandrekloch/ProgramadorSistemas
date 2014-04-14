@@ -1,0 +1,8 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\bin\Debug\ConversorNumerico.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\obj\x86\Debug\ConversorNumerico.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\obj\x86\Debug\ConversorNumerico.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\obj\x86\Debug\ConversorNumerico.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\obj\x86\Debug\ConversorNumerico.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\obj\x86\Debug\ConversorNumerico.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\ConversorNumerico\ConversorNumerico\obj\x86\Debug\ConversorNumerico.csprojResolveAssemblyReference.cache

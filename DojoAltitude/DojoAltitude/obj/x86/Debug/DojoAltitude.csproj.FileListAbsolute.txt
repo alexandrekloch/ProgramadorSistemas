@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\bin\Debug\DojoAltitude.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\bin\Debug\DojoAltitude.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\obj\x86\Debug\DojoAltitude.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\obj\x86\Debug\DojoAltitude.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\obj\x86\Debug\DojoAltitude.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\obj\x86\Debug\DojoAltitude.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\DojoAltitude\DojoAltitude\obj\x86\Debug\DojoAltitude.pdb

@@ -1,0 +1,7 @@
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\bin\Debug\dojoComprarCarro.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\bin\Debug\dojoComprarCarro.pdb
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\obj\x86\Debug\dojoComprarCarro.Form1.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\obj\x86\Debug\dojoComprarCarro.Properties.Resources.resources
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\obj\x86\Debug\dojoComprarCarro.csproj.GenerateResource.Cache
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\obj\x86\Debug\dojoComprarCarro.exe
+C:\Users\aluno\Documents\Visual Studio 2010\Projects\dojoComprarCarro\dojoComprarCarro\obj\x86\Debug\dojoComprarCarro.pdb
